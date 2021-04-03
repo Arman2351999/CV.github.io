@@ -1,0 +1,83 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color:black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+p{
+    margin: 20px;
+}
+
+h1{
+    margin: 20px;
+}
+
+h2{
+    margin: 20px;
+}
+
+
+.main{
+  
+    margin: 0px;
+    padding: 0px;
+
+    display: flex;
+}
+ 
+.imgdiv{
+    background-color: rgb(31, 29, 29);
+    margin-left: 20px;
+    margin-right: -300px;
+    padding-top: 30px;
+    padding-left: ;
+
+} 
+
+.div2{
+    background-color:rgb(22, 19, 19);
+}
+
+.imgg1{
+    padding-left: 120px !important;
+}
+.imgg2{
+    padding-left: 190px !important;
+    color: yellowgreen;
+}
+
+
+
+.italic{
+    color: yellowgreen;
+    margin: 20px;
+
+}
+
+.services{
+    display: flex;
+    padding: 10px;
+    margin: 10px;
+}
+
+.services2{
+    display: flex;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+.seo{
+    margin-left: 20px;
+}
+
+.DATASecuirty{
+    margin-left: 20px;
+}
+
+i{
+    color: chartreuse;
+}
